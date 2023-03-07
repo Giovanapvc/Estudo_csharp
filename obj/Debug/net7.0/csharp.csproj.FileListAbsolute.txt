@@ -1,0 +1,15 @@
+/home/giovana/csharp/bin/Debug/net7.0/csharp
+/home/giovana/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/giovana/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/giovana/csharp/bin/Debug/net7.0/csharp.dll
+/home/giovana/csharp/bin/Debug/net7.0/csharp.pdb
+/home/giovana/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/giovana/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovana/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/giovana/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/giovana/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/giovana/csharp/obj/Debug/net7.0/csharp.dll
+/home/giovana/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/giovana/csharp/obj/Debug/net7.0/csharp.pdb
+/home/giovana/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/giovana/csharp/obj/Debug/net7.0/ref/csharp.dll
